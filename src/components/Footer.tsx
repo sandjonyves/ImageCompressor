@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-white text-lg font-semibold mb-4">À propos</h3>
             <p className="text-sm">
-              Développeur passionné par la création d'outils utiles et performants.
+              Développeur passionné par la création d outils utiles et performants.
             </p>
           </div>
 
